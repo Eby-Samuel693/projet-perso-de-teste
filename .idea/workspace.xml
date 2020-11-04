@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94d5648f-a649-49a7-84e7-1b5e45f758de" name="Default Changelist" comment="Teste 2">
+      <change beforePath="$PROJECT_DIR$/Page 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page1.css" beforeDir="false" afterPath="$PROJECT_DIR$/page1.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jjEFY2oZbpBtJAfwReJUh07U7X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d5648f-a649-49a7-84e7-1b5e45f758de" name="Default Changelist" comment="" />
+      <created>1604308997461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604308997461</updated>
+      <workItem from="1604308998586" duration="57000" />
+      <workItem from="1604309071364" duration="108000" />
+      <workItem from="1604311253226" duration="8121000" />
+      <workItem from="1604322403272" duration="2704000" />
+      <workItem from="1604328109790" duration="7000" />
+      <workItem from="1604329482895" duration="33000" />
+      <workItem from="1604330375307" duration="1815000" />
+      <workItem from="1604333980742" duration="7187000" />
+      <workItem from="1604346399366" duration="562000" />
+      <workItem from="1604391101575" duration="746000" />
+      <workItem from="1604392791337" duration="14000" />
+      <workItem from="1604398768650" duration="911000" />
+      <workItem from="1604402555527" duration="38000" />
+      <workItem from="1604402627999" duration="38000" />
+      <workItem from="1604403063146" duration="33000" />
+      <workItem from="1604406921867" duration="22000" />
+      <workItem from="1604407046325" duration="14000" />
+      <workItem from="1604408380706" duration="28000" />
+      <workItem from="1604408412002" duration="1000" />
+      <workItem from="1604408488268" duration="14000" />
+      <workItem from="1604410483201" duration="1907000" />
+      <workItem from="1604413968448" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="Teste 1">
+      <created>1604330901736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604330901736</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Teste 2">
+      <created>1604331994367</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604331994367</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste 1" />
+    <MESSAGE value="Teste 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="66" key="RollbackChangesDialog" timestamp="1604327330572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604327330572" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604331996148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604331996148" />
+  </component>
+</project>

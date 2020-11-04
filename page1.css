@@ -1,7 +1,9 @@
 body{
-    background-color: black;
-    background-image: Url("0caf4fcfdeb0c849d994ef559dd818a4.jpg");
+    background-image: Url('arriere-plan-bleu-facebook-1.jpg');
+    background-attachment: fixed;
+    font-family: 'Architects Daughter', cursive;
 
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
 }
 
 h1 {
@@ -17,30 +19,60 @@ h1 {
     margin-right: auto
 }
 
-.P1{
+.b2{
+
+    background-color: black;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    width: 350px;
+    border-color:yellow;
     color:red;
     margin-top: 10px;
+    font-size: 22px;
 
 }
 
 .B1 {
+    background-color:black;
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 10px;
+    border-width: 3px;
+    width: 350px;
     color: red;
-    margin-left:1000px;
+    margin-left:950px;
     margin-top: -100px;
     float:left;
+    font-weight: lighter;
+    font-size: 20px;
 }
 
-.B2{
+.b3{
+    background-color: black;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 3px;
+    border-radius: 10px;
+    width: 200px;
+    margin-left:100px;
     color:red;
 }
 
 h2{
     font-style: italic;
     text-decoration-line: underline;
+    color:yellow;
 }
 
 .P2{
+    background-color: black;
     color:red;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    width: 350px;
+    border-color:yellow;
 }
 .T2{
     margin-top: 100px;
