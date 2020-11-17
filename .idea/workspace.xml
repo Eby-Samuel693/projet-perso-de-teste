@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d5648f-a649-49a7-84e7-1b5e45f758de" name="Default Changelist" comment="Teste 2">
+    <list default="true" id="94d5648f-a649-49a7-84e7-1b5e45f758de" name="Default Changelist" comment="Teste 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Page 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Page 1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page1.css" beforeDir="false" afterPath="$PROJECT_DIR$/page1.css" afterDir="false" />
     </list>
@@ -36,6 +37,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -84,6 +86,17 @@
       <workItem from="1604408488268" duration="14000" />
       <workItem from="1604410483201" duration="1907000" />
       <workItem from="1604413968448" duration="8000" />
+      <workItem from="1604476058270" duration="895000" />
+      <workItem from="1604491538657" duration="31000" />
+      <workItem from="1604491572712" duration="2000" />
+      <workItem from="1604506302880" duration="384000" />
+      <workItem from="1604576538610" duration="41000" />
+      <workItem from="1604576630721" duration="1944000" />
+      <workItem from="1604580668669" duration="22000" />
+      <workItem from="1604588033062" duration="17000" />
+      <workItem from="1604912031137" duration="974000" />
+      <workItem from="1604916757818" duration="1546000" />
+      <workItem from="1604922959551" duration="2134000" />
     </task>
     <task id="LOCAL-00001" summary="Teste 1">
       <created>1604330901736</created>
@@ -99,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604331994367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Teste 3">
+      <created>1604476112225</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604476112225</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,16 +140,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste 1" />
     <MESSAGE value="Teste 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste 2" />
+    <MESSAGE value="Teste 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teste 3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604923158578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604923158578" />
     <state x="447" y="66" key="RollbackChangesDialog" timestamp="1604327330572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="66" key="RollbackChangesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604327330572" />
-    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604331996148">
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1604476117346">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1604331996148" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604476117346" />
   </component>
 </project>
